@@ -6,6 +6,9 @@ TagManager:
   tags:
   - RedSpawner
   - GreenSpawner
+  - Bullet
+  - RedDeposit
+  - BlueDeposit
   layers:
   - Default
   - TransparentFX
