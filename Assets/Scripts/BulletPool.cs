@@ -20,7 +20,6 @@ public class BulletPool : MonoBehaviour
         bulletPoolInstance = this; //Here we assign the instance to this so we can use it in different scripts
     }
 
-    //aaaaTEST GIT
 
     // Start is called before the first frame update
     void Start()
